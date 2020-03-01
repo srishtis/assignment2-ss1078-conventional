@@ -58,6 +58,6 @@ docker run --rm -p 5000:5000 ss2809/assignment2-ss1078
 
 A simplified version of the app using redis and docker compose can be found [here](https://github.com/srishtis/assignment2-ss1078)
 
-### Demo (for use with docker-compose):
+### Demo:
 
-A demo video of how to use the app has been added to the repo [![here](https://img.youtube.com/vi/AiZT15TO7oE/0.jpg)](https://www.youtube.com/watch?v=AiZT15TO7oE)
+A demo video of how to use the app can be seen here [![here](https://img.youtube.com/vi/rn1lRor6k1w/0.jpg)](https://www.youtube.com/watch?v=rn1lRor6k1w)
