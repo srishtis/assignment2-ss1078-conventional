@@ -60,4 +60,6 @@ A simplified version of the app using redis and docker compose can be found [her
 
 ### Demo:
 
-A demo video of how to use the app can be seen here [![here](https://img.youtube.com/vi/rn1lRor6k1w/0.jpg)](https://www.youtube.com/watch?v=rn1lRor6k1w)
+A demo video of how to use the app can be seen: 
+
+[![here](https://img.youtube.com/vi/rn1lRor6k1w/0.jpg)](https://www.youtube.com/watch?v=rn1lRor6k1w)
